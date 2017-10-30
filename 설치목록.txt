@@ -1,0 +1,9 @@
+1. mingw 설치
+2. sublime text 설치
+3. node.js 설치 (node module 관련설치)
+4. 포스트맨 설치
+5. my sql 설치
+6. 안드로이드 스튜디오 설치
+7. 삼성드라이브로 연결 설치
+8. angular설치
+9. nginx-1.12.1
